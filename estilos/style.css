@@ -1,0 +1,52 @@
+.Todo{
+    width: 1350px;
+}
+.img{
+    width: 1350px;
+    height: 550px;
+}
+.header{
+    background-image: url("../images/1920_1200_20100203125603258866.jpg");
+    background-size: cover;
+    width: 1350px;
+    height: 650px;
+}
+.parrafito{
+    color: white;
+}
+.Final{
+    background-color: burlywood;
+}
+.cabezados{
+    background-image: url("../images/hola.jpg");
+    background-size: cover;
+    width: 1350px;
+    height: 950px;
+}
+.cabezatres{
+    background-color: darkslategrey;
+    background-size: cover;
+    width: 1340px;
+    height: 2050px;
+}
+.Letras{
+    color: white;
+}
+.cuarto{
+    background-image: url("../images/kumite.jpg");
+    background-size: cover;
+    width: 1350px;
+    height: 950px;
+}
+.Quinto{
+    background-image: url("../images/depositphotos_53630803-stock-photo-karate-girl-kick.jpg");
+    background-size: cover;
+    width: 1350px;
+    height: 800px;
+}
+.ultima{
+    background-image: url("../images/dojo.jpg");
+    background-size: cover;
+    width: 1350px;
+    height: 950px;
+}
